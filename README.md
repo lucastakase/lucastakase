@@ -9,13 +9,13 @@
 
 ## Me
 
-🧬 Scientist at Heart
+🧬 Scientist at Heart<br/>
 I began my journey in genetics and microbiology, developing a love for problem-solving and scientific inquiry.
 
-🔪 Creative in the Kitchen
+🔪 Creative in the Kitchen<br/>
 My time in culinary arts taught me adaptability, precision, and resilience—skills I carry into every challenge.
 
-💻 Building the Digital World
+💻 Building the Digital World<br/>
 Now, as a software developer, I combine my scientific background and operational experience to craft innovative solutions.
 
 🚀 Let’s Connect
