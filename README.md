@@ -18,8 +18,6 @@ My time in culinary arts taught me adaptability, precision, and resilience—ski
 💻 Building the Digital World<br/>
 Now, as a software developer, I combine my scientific background and operational experience to craft innovative solutions.
 
-🚀 Let’s Connect
-Excited to collaborate? Let’s explore how my diverse skills can contribute to your team’s success!
 <br/>
 <br/>
 
