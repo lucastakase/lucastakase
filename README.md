@@ -43,13 +43,22 @@ Now, as a software developer, I combine my scientific background and operational
 
 </div>
 
-🚀 Let’s Connect
-Excited to collaborate? Let’s explore how my diverse skills can contribute to your team’s success!
-
-
 
 <div id="aksd" align="right">
   
 📫 **lucastakase@gmail.com**
 
 </div>
+
+
+
+
+
+<div id="aksd" align="center">
+  
+## 🚀Let’s Connect
+Excited to collaborate? Let’s explore how my diverse skills can contribute to your team’s success!
+
+</div>
+
+
