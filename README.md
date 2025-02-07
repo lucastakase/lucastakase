@@ -30,6 +30,7 @@ Now, as a software developer, I combine my scientific background and operational
 - [Chat2.0](https://github.com/lucastakase/Chat2.0): A simple chat server and client application implemented in Java. The server handles multiple clients concurrently, allowing them to chat with each other.
 - [PortugueseDishes](https://github.com/lucastakase/PortugueseDishes): Java-based menu management system that allows users to interact with a database of Portuguese dishes. 
 - [HelpHub](https://github.com/lucastakase/HelpHub): This project was developed during the Code for All bootcamp as our final project, with a tight 3-day deadline.
+- [Booking_Outsystems](https://github.com/lucastakase/Booking_Outsystems): This project was developed during the second week of an OutSystems lab, conducted by Bool. The primary goal was to learn how to use modules with dependencies in an OutSystems development environment, separating the front-end from the back-end.
 
 ##  GitHub Stats:
 <div id="aksjd" align="center">
